@@ -1,3 +1,4 @@
+[![Build Status](https://gighubslims.visualstudio.com/MyFirstProject/_apis/build/status/slims78200.pipelines-java?branchName=master)](https://gighubslims.visualstudio.com/MyFirstProject/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
